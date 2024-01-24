@@ -55,10 +55,10 @@ body{
     position: absolute;
     bottom: 20px;
     width: 100%;
-    color: #a2a2a2;
+    color: yellow;
     font-size: 18px;
     text-align: center;
-    color: #0000004d;
+    color: red;
     font-family: Roboto;
     font-weight: 500;
 }
